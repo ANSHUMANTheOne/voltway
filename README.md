@@ -14,4 +14,4 @@ I researched the science, designed, built and tested the prototype, and document
 ## What’s next
 I want to improve the setup and explore how it performs outdoors, where temperatures and cooling conditions change throughout the day.
 
-[Watch my project video](https://github.com/ANSHUMANTheOne/voltway/blob/main/VoltWay_FINAL.mp4)
+[Watch my project video](https://anshumantheone.github.io/voltway/)
