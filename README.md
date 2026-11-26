@@ -1,2 +1,2 @@
 # VoltWay
-# Harvesting Energy, using the heat of the roads
+Harvesting Energy, using the heat of the roads
