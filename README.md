@@ -15,3 +15,21 @@ I researched the science, designed, built and tested the prototype, and document
 I want to improve the setup and explore how it performs outdoors, where temperatures and cooling conditions change throughout the day.
 
 [Watch my project video](https://anshumantheone.github.io/voltway/)
+
+## Bill of materials
+
+Approximate costs in AED.
+
+| Item | Cost (AED) |
+| --- | ---: |
+| Heating pack | 70 |
+| Peltier module | 80 |
+| Aluminium heat sink | 50 |
+| 3D printer | 1,100 |
+| Prebuilt LTC3108 energy-harvesting board | 100 |
+| Material for the 3D-printed mount | 20 |
+| Box | 65 |
+| Bottom supports | 30 |
+| Spray paint — 6 cans at AED 10 each | 60 |
+| Multimeter | 55 |
+| **Total** | **1,730** |
