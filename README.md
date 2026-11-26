@@ -27,9 +27,14 @@ Approximate costs in AED.
 | Aluminium heat sink | 50 |
 | 3D printer | 1,100 |
 | Prebuilt LTC3108 energy-harvesting board | 100 |
-| Material for the 3D-printed mount | 20 |
-| Box | 65 |
+| Material for the final 3D-printed mount | 20 |
+| Final box | 65 |
 | Bottom supports | 30 |
 | Spray paint — 6 cans at AED 10 each | 60 |
 | Multimeter | 55 |
-| **Total** | **1,730** |
+| Replacement for a Peltier module broken during testing | 80 |
+| Two earlier box attempts — AED 65 each | 130 |
+| Material for additional mount attempts | 50 |
+| **Total** | **1,990** |
+
+It took a few attempts to get the structure right. One Peltier module broke during testing, and I made several mounts while adjusting the setup. I also built three boxes: the first two weren’t stable enough, but the third mockup worked. This is why it took me fairly a long time, as its incredibly fragile to work with, especially in school environments and its literally a high risk high rewards haha. Everything in Bill of materials was bought and used only for this project, and will be continued to use on this project till it becomes a reality. After this, provided i get financial aid, i can work on making a real pilot model and finally make it a real project!
